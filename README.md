@@ -1,13 +1,11 @@
-<<<<<<< HEAD
 SaatananTunarit Ry
 ==================
 
-Älä vp sössi!
-=======
-penaali
-=======
+ - Älä vp sössi!
 
 Idea
 ----
 Antin penaali
->>>>>>> 10572c707dc6044818f722bbfd66d601b9206d41
+ - löysä
+ - vanha
+ - kulunut
