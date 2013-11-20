@@ -1,0 +1,48 @@
+1. Johdanto
+
+  Mikä projekti?
+    -"Komppari"-tietokanta (Osaamisen eli kompetenssien hallintajärjestelmä)
+    
+  Lukijakunta, kenelle dokumentti on tarkoitettu?
+    -Dokumentti on tarkoitettu JAMK/IT -instituutin opettaja Jouni Huotarille ja hänen ryhmän opiskelijoille 
+    
+  Tilanne?
+    -
+    
+  Motivaatio, miksi dokumentti on luotu?
+    -Vuonna 2007 tietokanta on ollut osa koulun kurssilla tehtävää harjoitustyötä
+    
+  Dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin?
+    -4 kohtaa (johdanto, yleiskuvaus, toiminnot, muut ominaisuudet)
+    
+    
+3.  Järjestelmän yleisrakenne
+
+    MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
+    
+    - ei ole mainittu
+    
+5. Miltä se näyttää
+
+    onko käyttöliittymästä kuvia?
+      - ei
+      
+    luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
+      - e ole 
+      
+    miten eri näkymien (views) välillä liikutaan?
+      - ei ole mainittu dokumentissa
+      
+7.  Johtopäätökset, oma mielipide
+
+    mikä tekee hyvän dokumentin?
+      - että jokainen dokumenttia lukeva tietää mistä aiheesta on kysymys
+      
+    onko tämä sellainen? miksi?
+      - kaavioita tai kuvia itse järjestelmästä ei ole, järjestelmän toiminnot on kuitenkin hyvin selitetty.
+      Dokumentti on lyhyt koska järjelmä ei ole iso, dokumentti on osa koulun tietokanta kurssin harjoitustyötä
+      joten se on mielestäni tarpeeksi laaja
+      
+    kaavioiden käyttö: laatu? määrä? hyöty?
+      - dokumentista ei löydy kaavioita
+
