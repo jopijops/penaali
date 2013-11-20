@@ -15,13 +15,13 @@
   Dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin?
     -4 kohtaa (johdanto, yleiskuvaus, toiminnot, muut ominaisuudet)
     
-2.  -Komppari-tietokannasta voi hakea järjestelmään tallennettujen henkilöiden tietoja, koskien heidän osaamistaan          määritellyille taidoille. Tietokannasta selviää, kuka osaa, mitä osaa ja miten osaa.
+2.  -Komppari-tietokannasta voi hakea järjestelmään tallennettujen henkilöiden tietoja, koskien heidän osaamistaan määritellyille taidoille. Tietokannasta selviää, kuka osaa, mitä osaa ja miten osaa.
 
-    -Vaatimusmäärittelyyn ei ole luotu käyttötapauskaaviota, joka selkeyttäisi, kuka hallinnoi tietokantaa, ketkä           käyttävät ja kuinka järjestelmä toimii edellämainittujen käyttäjien kesken.
+    -Vaatimusmäärittelyyn ei ole luotu käyttötapauskaaviota, joka selkeyttäisi, kuka hallinnoi tietokantaa, ketkä käyttävät ja kuinka järjestelmä toimii edellämainittujen käyttäjien kesken.
 
-    -Komppari-tietokannan vaatimusmäärittelystä selviää tietokannan perustoimintamallit, mutta ei sen  monipuolista         köyttömahdollisuutta.
+    -Komppari-tietokannan vaatimusmäärittelystä selviää tietokannan perustoimintamallit, mutta ei sen  monipuolista köyttömahdollisuutta.
 
-    -Vaatimusmäärittely ei sisällä mahdollisia toimintaskenaarioita eikä käyttäjätarinoita. Nämä selkeyttäisivät            Kompopari-tietokannan käytettävyytta.
+    -Vaatimusmäärittely ei sisällä mahdollisia toimintaskenaarioita eikä käyttäjätarinoita. Nämä selkeyttäisivät Kompopari-tietokannan käytettävyyttä.
 
     
     
@@ -31,9 +31,9 @@
     
     - ei ole mainittu
     
-4.  -Tietokantaan syötetään henkilötietojen, kuten nimen ja opiskelijanumeron lisäksi, mahollisen ryhmä johon henkilö       kuuluu.
+4.  -Tietokantaan syötetään henkilötietojen, kuten nimen ja opiskelijanumeron lisäksi, mahollisen ryhmä johon henkilö kuuluu.
     -Tunnistetiedot pohjautuvat henkilöiden nimiin ja opiskelijanumeroihin.
-    -Komppari-tietokannan toimivuutta voidaan mitata testaajan, eli toimeksiantajan arvion mukaan. Toimivuus pisteytetää      n JAMK:n  arvosteluasteikon (1-5) mukaisesti. 
+    -Komppari-tietokannan toimivuutta voidaan mitata testaajan, eli toimeksiantajan arvion mukaan. Toimivuus pisteytetään JAMK:n  arvosteluasteikon (1-5) mukaisesti. 
 
     
     
