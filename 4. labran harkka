@@ -31,6 +31,12 @@
     
     - ei ole mainittu
     
+4.  -Tietokantaan syötetään henkilötietojen, kuten nimen ja opiskelijanumeron lisäksi, mahollisen ryhmä johon henkilö       kuuluu.
+    -Tunnistetiedot pohjautuvat henkilöiden nimiin ja opiskelijanumeroihin.
+    -Komppari-tietokannan toimivuutta voidaan mitata testaajan, eli toimeksiantajan arvion mukaan. Toimivuus pisteytetää      n JAMK:n  arvosteluasteikon (1-5) mukaisesti. 
+
+    
+    
 5. Miltä se näyttää
 
     onko käyttöliittymästä kuvia?
