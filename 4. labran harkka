@@ -15,7 +15,9 @@
   Dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin?
     -4 kohtaa (johdanto, yleiskuvaus, toiminnot, muut ominaisuudet)
     
-2.  -Komppari-tietokannasta voi hakea järjestelmään tallennettujen henkilöiden tietoja, koskien heidän osaamistaan määritellyille taidoille. Tietokannasta selviää, kuka osaa, mitä osaa ja miten osaa.
+2.  Käyttötapaukset
+
+    -Komppari-tietokannasta voi hakea järjestelmään tallennettujen henkilöiden tietoja, koskien heidän osaamistaan määritellyille taidoille. Tietokannasta selviää, kuka osaa, mitä osaa ja miten osaa.
 
     -Vaatimusmäärittelyyn ei ole luotu käyttötapauskaaviota, joka selkeyttäisi, kuka hallinnoi tietokantaa, ketkä käyttävät ja kuinka järjestelmä toimii edellämainittujen käyttäjien kesken.
 
@@ -31,7 +33,9 @@
     
     - ei ole mainittu
     
-4.  -Tietokantaan syötetään henkilötietojen, kuten nimen ja opiskelijanumeron lisäksi, mahollisen ryhmä johon henkilö kuuluu.
+4.  Funktionaaliset & ei-funktionaaliset vaatimukset
+
+    -Tietokantaan syötetään henkilötietojen, kuten nimen ja opiskelijanumeron lisäksi, mahollisen ryhmä johon henkilö kuuluu.
     -Tunnistetiedot pohjautuvat henkilöiden nimiin ja opiskelijanumeroihin.
     -Komppari-tietokannan toimivuutta voidaan mitata testaajan, eli toimeksiantajan arvion mukaan. Toimivuus pisteytetään JAMK:n  arvosteluasteikon (1-5) mukaisesti. 
 
@@ -47,6 +51,15 @@
       
     miten eri näkymien (views) välillä liikutaan?
       - ei ole mainittu dokumentissa
+      
+6.  Prosessimalli
+
+  -Tietokannan vaatimusmäärittelyyn ei ole kuvattu erillisesti prosessimallia, joka selkeyttäisi tietokantajärjestelmän toimivuutta, tai sen laajempaa käytettävyyttä.
+
+  -Vaatimusmäärittelyyn ei ole laskettu mahdollisia kuluja tai budjetoitu menoja. Työ kuitenkin luodaan opiskelijatyönä, jolloin Komppari-tietokannan toteutus tapahtuu todennäköisesti ilman laskettua budjettia.
+
+  -Riskianalyysiä ei vaatimusmäärittelystä ilmene, vaikka sellainen olisi tarpeellinen, sillä tietokanta tulee sisältämään henkilötietoja ja muuta käyttäjien salassapidettävää informaatiota.
+      
       
 7.  Johtopäätökset, oma mielipide
 
