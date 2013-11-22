@@ -23,7 +23,7 @@
 
     -Komppari-tietokannan vaatimusmäärittelystä selviää tietokannan perustoimintamallit, mutta ei sen  monipuolista köyttömahdollisuutta.
 
-    -Vaatimusmäärittely ei sisällä mahdollisia toimintaskenaarioita eikä käyttäjätarinoita. Nämä selkeyttäisivät Kompopari-tietokannan käytettävyyttä.
+    -Vaatimusmäärittely ei sisällä mahdollisia toimintaskenaarioita eikä käyttäjätarinoita. Nämä selkeyttäisivät Komppari-tietokannan käytettävyyttä.
 
     
     
@@ -35,11 +35,10 @@
     
 4.  Funktionaaliset & ei-funktionaaliset vaatimukset
 
-    -Tietokantaan syötetään henkilötietojen, kuten nimen ja opiskelijanumeron lisäksi, mahollisen ryhmä johon henkilö kuuluu.
+    -Tietokantaan syötetään henkilötietojen, kuten nimen ja opiskelijanumeron lisäksi, mahdollinen ryhmä johon henkilö kuuluu.
     -Tunnistetiedot pohjautuvat henkilöiden nimiin ja opiskelijanumeroihin.
     -Komppari-tietokannan toimivuutta voidaan mitata testaajan, eli toimeksiantajan arvion mukaan. Toimivuus pisteytetään JAMK:n  arvosteluasteikon (1-5) mukaisesti. 
 
-    
     
 5. Miltä se näyttää
 
@@ -47,7 +46,7 @@
       - ei
       
     luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
-      - e ole 
+      - ei ole 
       
     miten eri näkymien (views) välillä liikutaan?
       - ei ole mainittu dokumentissa
@@ -68,7 +67,7 @@
       
     onko tämä sellainen? miksi?
       - kaavioita tai kuvia itse järjestelmästä ei ole, järjestelmän toiminnot on kuitenkin hyvin selitetty.
-      Dokumentti on lyhyt koska järjelmä ei ole iso, dokumentti on osa koulun tietokanta kurssin harjoitustyötä
+      Dokumentti on lyhyt koska järjelmä ei ole iso, dokumentti on osa koulun tietokantakurssin harjoitustyötä
       joten se on mielestäni tarpeeksi laaja
       
     kaavioiden käyttö: laatu? määrä? hyöty?
