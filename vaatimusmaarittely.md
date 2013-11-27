@@ -117,7 +117,7 @@ on?
  
 ### Listatkaa työhön kuluneet tunnit, so. kuinka monta tuntia dokumentin 
 kirjoittamiseen meni aikaa per henkilö.
-+ Joonas 2h
++ Joonas 4h
 + Vellipekka
 + Janne
 
