@@ -63,7 +63,7 @@ eteneminen, lopputila, mikä voi mennä vikaan...)
 
 ### Kuvaa yhden (pää)käyttötapauksen kulku vuokaaviona
 liite1: käyttäjäskenaario1
- ![liite1](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/liite1.vsd)
+ ![liite1](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/liite1.gif)
  
 ## 3. Järjestelmäarkkitehtuuri
  
@@ -102,9 +102,13 @@ riittävän yksiselitteisiä?
  
 ### Millaisia näkymiä järjestelmässä on? Miten toiminnallisuuksia niissä 
 on?
-+ aluksi näytöllä on kirjautumisikkuna jos kyseisen käyttäjän tarvitsee kirjautua erikseen.
++ aluksi näytöllä on kirjautumisikkuna jos kyseisen käyttäjän tarvitsee kirjautua erikseen. Muuten mennään suoraan pääikkunaan
 + karttanäkymä on pelin pääikkuna.
 + kartan reunoilla on kuvitettuja nappeja joista pääsee eri valikoihin tai toimintoihin.
++ ase/poweruppivalikko 
++ kaverit/ryhmäikkuna, kavereita voi poistaa/lisätä, myös ryhmäkohtaiset privaattipelit
++ pelivalikko: voi valita pelattavan julkisen skenaarion
++ omat tiedot valikko
 
 ### Kuvaile jokainen näkymä ja mihin sitä käytetään 
 ### Kuvaile siirtymät käyttöliittymänäkymien välillä
