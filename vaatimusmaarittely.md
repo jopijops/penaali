@@ -1,8 +1,8 @@
 Kansilehti
  
-Otsikko: "<Tuotteen nimi>: <Tuotteen kuvaus>"
-Ryhmän nimi
-Ryhmän jäsenet
+Zombipeli: <Tuotteen kuvaus>"
+Tattitiimi Developers
+Ryhmän jäsenet: Joonas Schwanck, Velieka Rahkola, Janne Savela
 Päivämäärä
 Versiohistoria (jos tarpeen)
  
@@ -59,8 +59,10 @@ Sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Pelissä on kahde
  
 ### Käyttäjäskenaariot (mallipohjaan perustuen: alkutila, normaali 
 eteneminen, lopputila, mikä voi mennä vikaan...)
- 
+
+
 ### Kuvaa yhden (pää)käyttötapauksen kulku vuokaaviona
+liite1: käyttäjäskenaario1
  
 ## 3. Järjestelmäarkkitehtuuri
  
