@@ -63,6 +63,7 @@ eteneminen, lopputila, mikä voi mennä vikaan...)
 
 ### Kuvaa yhden (pää)käyttötapauksen kulku vuokaaviona
 liite1: käyttäjäskenaario1
+ ![liite1](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/liite1.vsd)
  
 ## 3. Järjestelmäarkkitehtuuri
  
