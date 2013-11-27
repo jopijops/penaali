@@ -9,13 +9,53 @@ Versiohistoria (jos tarpeen)
 ## 1. Johdanto 
  
 ### Projektin yleiskuvaus, projektin tausta
+Sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Pelissä on kahdenlaisia hahmoja: zombuja ja ihmisiä. Peli toimii samalla tavalla kuin hippa.
+
 ### Sovelluksen yleiskuvauksen
  
 ## 2. Käyttötapaukset (mitä sillä voi tehdä)
  
 ### Käyttäjäryhmien määrittely
+
++ ihminen
++ zombi
++ OP
++ kehittäjä
  
 ### Käyttötapauskaavio(t)
+
+#### ihminen
+ + Sisäänkirjautuminen/pelin avaaminen
+ + uuden pelin luominen
+ + olemassa olevaan peliin liittyminen
+ + omien tietojen selaaminen
+ + omien tietojen muuttaminen
+ + kartan selaaminen
+ + kartalla liikkuminen
+ + aseen poimiminen
+ + aseen käyttäminen vaaratilanteessa
+ + zombiksi muuttuminen
+ + ryhmänäkymän valitseminen
+
+#### zombi
+ + ihmiseksi muuttuminen
+ + pureminen
+ + power-uppien poimiminen
+
+#### OP
+ + kenttien luominen
+ + kartan muuttaminen
+ + tilojen rajojen määrittely
+ + käyttäjien lisääminen
+ + käyttäjien poistaminen
+ + peli- ja ei pelialueden luonti
+ + ryhmien luonti
+ + aseiden ja power-uppien asettaminen ja piilottaminen
+
+#### kehittäjä
+ + tyylien muuttaminen
+ + grafiikan vaihtaminen
+ + signaalien skannaaminen
  
 ### Käyttäjäskenaariot (mallipohjaan perustuen: alkutila, normaali 
 eteneminen, lopputila, mikä voi mennä vikaan...)
@@ -29,8 +69,19 @@ eteneminen, lopputila, mikä voi mennä vikaan...)
  
 ## 4. Vaatimukset (jäljitettävässä, (mitattavassa) muodossa)
  
-### Funktionaaliset vaatimukset
-### Ei-funktionaaliset järjestelmävaatimukset
+
+### toiminnalliset vaatimukset (functional requirements)
+ + käyttäjän paikka tulee paikantaa viiden metrin tarkkuudella
+ + zombin puremasta popup-ilmoitus, ikkunassa voi puolustatua mikäli on saanut aseen.
+ + zombi voi halutessaan puraista lähellä olevaa ihmistä
+ + aseita ja power-uppeja voi asettaa näkyville tai piilottaa tiloihin
+ + aseita ja power-uppeja voi poimia lähietäisyydeltä
+ + ihminen näkee zombit kartalla
+ + zombi näkee ihmiset kartalla ollessaan lähialueella
+
+### laadulliset vaatimukset (non-functional requirements)
++ kartan on päivityttävä reaaliaikaisesti
++ pelin tapahtumien tulee päivittyä reaaliaikaisesti
  
 pohdittavaa
 * kuinka taata järjestelmän helppokäyttöisyys?
@@ -48,6 +99,10 @@ riittävän yksiselitteisiä?
  
 ### Millaisia näkymiä järjestelmässä on? Miten toiminnallisuuksia niissä 
 on?
++ aluksi näytöllä on kirjautumisikkuna jos kyseisen käyttäjän tarvitsee kirjautua erikseen.
++ karttanäkymä on pelin pääikkuna.
++ kartan reunoilla on kuvitettuja nappeja joista pääsee eri valikoihin tai toimintoihin.
+
 ### Kuvaile jokainen näkymä ja mihin sitä käytetään 
 ### Kuvaile siirtymät käyttöliittymänäkymien välillä
  
@@ -55,6 +110,10 @@ on?
  
 ### Listatkaa työhön kuluneet tunnit, so. kuinka monta tuntia dokumentin 
 kirjoittamiseen meni aikaa per henkilö.
++ Joonas 2h
++ Vellipekka
++ Janne
+
 ### Kuinka vaikeaa oli arvioida työmäärää, kuinka paljon lopullinen 
 työmäärä erosi alustavista arvioista?
 ### Mitä tekisitte toisin seuraavissa projekteissa? Oliko projektinne 
