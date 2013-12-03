@@ -2,7 +2,7 @@ Kansilehti
  
 Zombipeli: <Tuotteen kuvaus>"
 Tattitiimi Developers
-Ryhmän jäsenet: Joonas Schwanck, Velieka Rahkola, Janne Savela
+Ryhmän jäsenet: Joonas Schwanck, Velipekka Rahkola, Janne Savela
 Päivämäärä
 Versiohistoria (jos tarpeen)
  
