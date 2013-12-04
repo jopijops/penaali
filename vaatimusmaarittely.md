@@ -1,10 +1,14 @@
-Kansilehti
+
  
-Zombipeli: <Tuotteen kuvaus>"
+University Z.: Kampuksen sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli.
+
 Tattitiimi Developers
+
 Ryhmän jäsenet: Joonas Schwanck, Velipekka Rahkola, Janne Savela
-Päivämäärä
-Versiohistoria (jos tarpeen)
+
+X.12.2013
+
+V. 0.1 BETA
  
 ## 1. Johdanto 
  
