@@ -12,9 +12,10 @@ V. 0.1 BETA
 ## 1. Johdanto 
  
 ### Projektin yleiskuvaus, projektin tausta
-Sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Pelissä on kahdenlaisia hahmoja: zombuja ja ihmisiä. Peli toimii samalla tavalla kuin hippa.
+Sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Paikannus tapahtuu Metropolian toimipisteissä. Pelissä on kahdenlaisia hahmoja: zombuja ja ihmisiä. Peli toimii samalla tavalla kuin hippa.
 
 ### Sovelluksen yleiskuvaus
+Mobiilisovellus, ladattavissa kaikille alustoille.
 Power-uppeja (zombina) tai aseita (ihmisenä) löytää tiloista joihin on vaikea pääsy tai joihin pääsee vain ajoittain. Esimerkiksi: opehuone, siivouskomero, studio ja muut lukitut tilat. Peliin voisi myöhemmin yhdistää muita tehtäviä. Esimerkiksi kirjastosta voisi vihjeen perusteella löytää kirjan jonka väliin on piilotettu qr-koodi. Tämän "tiedon" tai "avaimen" avulla voisi avata uusia tehtäviä. Skenaariokohtainen päämääränä voisi olla esimerkiksi ulospääsy lukitusta koulusta tai vastalääkkeen kehittäminen. 
 
 Kun ihmispelaaja saa pureman, hän muuttuu hetken päästä zombiksi ja saa zombin suppeamman karttanäkymän eli pelaaja "tyhmenee". Zombi kuolee kahden iskun jälkeen eli kahden raajanmenetyksen jälkeen. Tämän jälkeen pelaaja voi liittyä uudestaan julkiseen peliin käydessään tietyllä alueella. Privaattipelien tai skenaarioiden säännöt ovat skenaariokohtaisia.
