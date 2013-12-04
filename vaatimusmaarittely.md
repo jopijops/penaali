@@ -80,13 +80,13 @@ Kun ihmispelaaja saa pureman, hän muuttuu hetken päästä zombiksi ja saa zomb
 eteneminen, lopputila, mikä voi mennä vikaan...)
 
 ### Kuvaa yhden (pää)käyttötapauksen kulku vuokaaviona
-liite1: käyttäjäskenaario1
- ![liite1](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/kskenaario1.gif)
+Ihmispelaaja
+ ![liite2](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/kskenaario1.gif)
  
 ## 3. Järjestelmäarkkitehtuuri
  
 ### Korkean abstraktiotason yleiskuvaus
-![liite1](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/arkkitehtuuri.gif)
+![liite3](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/arkkitehtuuri.gif)
 
 ### Järjestelmän pääkomponentit ja niiden toiminnallisuuksien määrittely
  
