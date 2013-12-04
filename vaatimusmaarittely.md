@@ -1,6 +1,5 @@
-
  
-University Z.: Kampuksen sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli.
+University Z.: Kampuksen sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Vaatimusmäärittely.
 
 Tattitiimi Developers
 
