@@ -38,7 +38,7 @@ Sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Pelissä on kahde
  + ryhmänäkymän valitseminen
 
 #### zombi
- + ihmiseksi muuttuminen
+ + zombi kuolee/peli loppuu
  + pureminen
  + power-uppien poimiminen
 
