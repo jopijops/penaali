@@ -1,11 +1,11 @@
-SaatananTunarit Ry
-==================
+ 
+University Z.: Kampuksen sisÃ¤tilapaikannukseen perustuva sosiaalinen mobiilizombipeli. VaatimusmÃ¤Ã¤rittely. Metropolia harjoitustyÃ¶.
 
- - Älä vp sössi!
+Tattitiimi Developers
 
-Idea
-----
-Antin penaali
- - löysä
- - vanha
- - kulunut
+RyhmÃ¤n jÃ¤senet: Joonas Schwanck, Velipekka Rahkola, Janne Savela
+
+X.12.2013
+
+V. 0.1 BETA
+ 
