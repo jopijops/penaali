@@ -124,13 +124,12 @@ järjestelmävirheet ja kuinka niistä toivutaan
 + paljon resursseja ja tehokas järjestelmä
 + wlan-yhteyden pätkiminen -> puhelimen päivitys
 
-### järjestelmälläsi on paljon käyttäjiä, kuinka taata että 
-järjestelmässä on riittävästi tehoja? Millaisia metriikkoja 
-käyttäisit?
+### järjestelmälläsi on paljon käyttäjiä, kuinka taata että järjestelmässä on riittävästi tehoja? Millaisia metriikkoja käyttäisit?
 + järjestelmä on tehokas ja dynaaminen
  
 ### Mitä muita ei-funktionaalisia vaatimuksia olisi syytä kuvata?
 + käyttöjärjestelmä ja sen versiot, alusta 
+
 ### Millaisia metriikkoja käyttäisit, jotta vaatimukset ovat 
 riittävän yksiselitteisiä?
 + tarpeeksi yksinkertaisia, ei laajoja
