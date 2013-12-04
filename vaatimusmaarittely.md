@@ -68,6 +68,8 @@ liite1: käyttäjäskenaario1
 ## 3. Järjestelmäarkkitehtuuri
  
 ### Korkean abstraktiotason yleiskuvaus
+Power-uppeja (zombina) tai aseita (ihmisenä) löytää tiloista joihin on vaikea pääsy tai joihin pääsee vain ajoittain. Esimerkiksi: opehuone, siivouskomero, studio ja muut lukitut tilat. Peliin voisi myöhemmin yhdistää muita tehtäviä. Esimerkiksi kirjastosta voisi vihjeen perusteella löytää kirjan jonka väliin on piilotettu qr-koodi. Tämän "tiedon" tai "avaimen" avulla voisi avata uusia tehtäviä. Skenaariokohtainen päämääränä voisi olla esimerkiksi ulospääsy lukitusta koulusta tai vastalääkkeen kehittäminen.
+
 ### Järjestelmän pääkomponentit ja niiden toiminnallisuuksien määrittely
  
 ## 4. Vaatimukset (jäljitettävässä, (mitattavassa) muodossa)
@@ -81,7 +83,7 @@ liite1: käyttäjäskenaario1
  + aseita ja power-uppeja voi poimia lähietäisyydeltä
  + ihminen näkee zombit kartalla
  + zombi näkee ihmiset kartalla ollessaan lähialueella
- + zombi menettää raajoja, kaksi menetettyä raajaa ja zombi kuolee
+ + zombi menettää raajoja: kaksi menetettyä raajaa niin zombi kuolee
  + 
  
 #### power-upit
