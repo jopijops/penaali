@@ -118,8 +118,8 @@ on?
 ### Listatkaa työhön kuluneet tunnit, so. kuinka monta tuntia dokumentin 
 kirjoittamiseen meni aikaa per henkilö.
 + Joonas 4h
-+ Vellipekka
-+ Janne
++ Velipekka 3,5h
++ Janne 3h
 
 ### Kuinka vaikeaa oli arvioida työmäärää, kuinka paljon lopullinen 
 työmäärä erosi alustavista arvioista?
