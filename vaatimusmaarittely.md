@@ -81,6 +81,12 @@ liite1: käyttäjäskenaario1
  + aseita ja power-uppeja voi poimia lähietäisyydeltä
  + ihminen näkee zombit kartalla
  + zombi näkee ihmiset kartalla ollessaan lähialueella
+ + zombi menettää raajoja, kaksi menetettyä raajaa ja zombi kuolee
+ + 
+ 
+#### power-upit
++ weapon malfunction/out of ammo!
++ hyper zombie: voi syödä seinän läpi
 
 ### laadulliset vaatimukset (non-functional requirements)
 + kartan on päivityttävä reaaliaikaisesti
