@@ -113,21 +113,26 @@ päätelaitteet, paikannus, serverit, käyttäjätiedot
 + pelin tapahtumien tulee päivittyä reaaliaikaisesti
  
 pohdittavaa
+
 * kuinka taata järjestelmän helppokäyttöisyys?
-+selkeät valikot
-+käyttäjä ei voi joutua ikinä "umpikujaan" mistä ei pääse mihinkään suuntaan
++ selkeät valikot
++ käyttäjä ei voi joutua ikinä "umpikujaan" mistä ei pääse mihinkään suuntaan
+
 * kuinka taata järjestelmän luotettavuus? Listaa mahdolliset 
 järjestelmävirheet ja kuinka niistä toivutaan
-+paljon resursseja ja tehokas järjestelmä
-+wlan-yhteyden pätkiminen -> puhelimen päivitys
++ paljon resursseja ja tehokas järjestelmä
++ wlan-yhteyden pätkiminen -> puhelimen päivitys
+
 * järjestelmälläsi on paljon käyttäjiä, kuinka taata että 
 järjestelmässä on riittävästi tehoja? Millaisia metriikkoja 
 käyttäisit?
-+järjestelmä on tehokas ja dynaaminen
++ järjestelmä on tehokas ja dynaaminen
  
 Mitä muita ei-funktionaalisia vaatimuksia olisi syytä kuvata?
-### Millaisia metriikkoja käyttäisit, jotta vaatimukset ovat 
++ käyttöjärjestelmä ja sen versiot, alusta 
+Millaisia metriikkoja käyttäisit, jotta vaatimukset ovat 
 riittävän yksiselitteisiä?
++ tarpeeksi yksinkertaisia, ei laajoja
  
 ## 5. Käyttöliittymä
  
