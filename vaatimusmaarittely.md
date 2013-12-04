@@ -76,16 +76,16 @@ Kun ihmispelaaja saa pureman, hän muuttuu hetken päästä zombiksi ja saa zomb
  
 ### Käyttäjäskenaariot (mallipohjaan perustuen: alkutila, normaali 
 eteneminen, lopputila, mikä voi mennä vikaan...)
-
+![liite1](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/kkaavio.gif)
 
 ### Kuvaa yhden (pää)käyttötapauksen kulku vuokaaviona
 liite1: käyttäjäskenaario1
- ![liite1](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/liite1.gif)
+ ![liite1](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/kskenaario1.gif)
  
 ## 3. Järjestelmäarkkitehtuuri
  
 ### Korkean abstraktiotason yleiskuvaus
-päätelaitteet, paikannus, serverit, käyttäjätiedot
+![liite1](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/arkkitehtuuri.gif)
 
 ### Järjestelmän pääkomponentit ja niiden toiminnallisuuksien määrittely
  
@@ -101,7 +101,7 @@ päätelaitteet, paikannus, serverit, käyttäjätiedot
  + ihminen näkee zombit kartalla
  + zombi näkee ihmiset kartalla ollessaan lähialueella
  + zombi menettää raajoja: kaksi menetettyä raajaa niin zombi kuolee
- + 
+
  
 #### power-upit
 + weapon malfunction/out of ammo!
