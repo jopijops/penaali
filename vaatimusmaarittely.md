@@ -12,7 +12,7 @@ V. 0.1 BETA
 ## 1. Johdanto 
  
 ### Projektin yleiskuvaus, projektin tausta
-Sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Paikannus tapahtuu Metropolian toimipisteissä. Pelissä on kahdenlaisia hahmoja: zombuja ja ihmisiä. Peli toimii samalla tavalla kuin hippa.
+Sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Paikannus tapahtuu Metropolian toimipisteessä rakennuksen langattoman verkon signaalien avulla. Pelissä on kahdenlaisia hahmoja: zombuja ja ihmisiä. Peli toimii samalla tavalla kuin hippa.
 
 ### Sovelluksen yleiskuvaus
 Mobiilisovellus, ladattavissa kaikille alustoille.
