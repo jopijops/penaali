@@ -161,7 +161,7 @@ on?
  
 ### Listatkaa työhön kuluneet tunnit, so. kuinka monta tuntia dokumentin 
 kirjoittamiseen meni aikaa per henkilö.
-+ Joonas 7h
++ Joonas 9h
 + Velipekka 3,5h
 + Janne 3h
 
