@@ -22,7 +22,7 @@ Sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Pelissä on kahde
 
 + ihminen
 + zombi
-+ OP
++ Valvoja
 + kehittäjä
  
 ### Käyttötapauskaavio(t)
@@ -40,11 +40,14 @@ Sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Pelissä on kahde
  + ryhmänäkymän valitseminen
 
 #### zombi
- + zombi kuolee/peli loppuu
+ + zombi menettää raajansa
+ + zombi kuolee
  + pureminen
  + power-uppien poimiminen
+ + power-uppien käyttäminen
+ + kuolleesta zombusta ihmiseksi muuttuminen
 
-#### OP
+#### Valvoja
  + kenttien luominen
  + kartan muuttaminen
  + tilojen rajojen määrittely
