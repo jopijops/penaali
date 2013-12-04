@@ -74,9 +74,10 @@ Kun ihmispelaaja saa pureman, hän muuttuu hetken päästä zombiksi ja saa zomb
  + grafiikan vaihtaminen
  + signaalien skannaaminen
  
+![liite1](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/kkaavio.gif)
+
 ### Käyttäjäskenaariot (mallipohjaan perustuen: alkutila, normaali 
 eteneminen, lopputila, mikä voi mennä vikaan...)
-![liite1](http://users.metropolia.fi/~joonassc/ohjelmistotuotanto/kkaavio.gif)
 
 ### Kuvaa yhden (pää)käyttötapauksen kulku vuokaaviona
 liite1: käyttäjäskenaario1
