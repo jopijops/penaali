@@ -120,6 +120,13 @@ on?
 + omat tiedot valikko
 
 ### Kuvaile jokainen näkymä ja mihin sitä käytetään 
++ Kirjautumisikkuna: ensimmäinen näkymä jossa käyttäjä kirjautuu sisään peliin
++ pääikkuna/pelinäkymä: karttanäkymä jossa näkyy muut käyttäjät, kartan reunoilla on kuvitettuja nappeja joista pääsee eri valikoihin tai toimintoihin
++ ase/power up -valikko: saat valita mitä asetta käytät ihmisenä ja mitä power upia käytät zombina
++ kaverit/ryhmäikkuna: kavereita voi poistaa ja lisätä, myös ryhmän/luokan sisäiset privaattipelit
++ pelivalikko: voi valita pelattavan julkisen skenarion
++ omat tiedot valikko: voit kirjautua ulos pelistä
+
 ### Kuvaile siirtymät käyttöliittymänäkymien välillä
  
 ## 6. Projektin hallinta, reflektio
