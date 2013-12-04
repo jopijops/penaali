@@ -155,7 +155,7 @@ on?
  
 ### Listatkaa työhön kuluneet tunnit, so. kuinka monta tuntia dokumentin 
 kirjoittamiseen meni aikaa per henkilö.
-+ Joonas 4h
++ Joonas 7h
 + Velipekka 3,5h
 + Janne 3h
 
