@@ -39,21 +39,20 @@ Kun ihmispelaaja saa pureman, hän muuttuu hetken päästä zombiksi ja saa zomb
  
 ### Käyttötapauskaavio(t)
 
-#### ihminen
+#### Pelaaja 
  + Sisäänkirjautuminen/pelin avaaminen
  + olemassa olevaan peliin liittyminen
  + omien tietojen selaaminen
  + omien tietojen muuttaminen
  + kartan selaaminen
  + kartalla liikkuminen
+ 
+##### ihminen
  + aseen poimiminen
  + aseen käyttäminen vaaratilanteessa
- + zombiksi muuttuminen
  + ryhmänäkymän valitseminen
 
-#### zombi
- + zombi menettää raajansa
- + zombi kuolee
+##### zombi
  + pureminen
  + power-uppien poimiminen
  + power-uppien käyttäminen
