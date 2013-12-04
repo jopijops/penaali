@@ -26,7 +26,6 @@ Sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Pelissä on kahde
 
 #### ihminen
  + Sisäänkirjautuminen/pelin avaaminen
- + uuden pelin luominen
  + olemassa olevaan peliin liittyminen
  + omien tietojen selaaminen
  + omien tietojen muuttaminen
@@ -50,6 +49,7 @@ Sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Pelissä on kahde
  + käyttäjien poistaminen
  + peli- ja ei pelialueden luonti
  + ryhmien luonti
+ + privaatti- eli ryhmäpelin luonti
  + aseiden ja power-uppien asettaminen ja piilottaminen
 
 #### kehittäjä
@@ -89,6 +89,7 @@ Power-uppeja (zombina) tai aseita (ihmisenä) löytää tiloista joihin on vaike
 #### power-upit
 + weapon malfunction/out of ammo!
 + hyper zombie: voi syödä seinän läpi
++ flambeeraus: zombi syttyy tuleen:  zombin ulottuvuus kasvaa eli puree pitemmän matkan päästä
 
 ### laadulliset vaatimukset (non-functional requirements)
 + kartan on päivityttävä reaaliaikaisesti
