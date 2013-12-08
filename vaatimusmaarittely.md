@@ -170,8 +170,10 @@ kirjoittamiseen meni aikaa per henkilö.
 + Velipekka 8,5h
 + Janne 3h
 
-### Kuinka vaikeaa oli arvioida työmäärää, kuinka paljon lopullinen 
-työmäärä erosi alustavista arvioista?
+### Työmäärä verrattuna odotuksiin
+Tehtävä: kehitä kattava mobiilisovellus ideasta käyttöliittymäluonnoksiin tunneissa. Työmääräarvio alustavanluonteiselle vaatimusmaarittelylle ilman aikaisempaa kokemusta ohjelmistotuotannosta oli noin kahdeksan tuntia per naama. Mutta kun aiheeseen pääsi käsiksi ja sovelluksen ominaisuuksia alkoi putoilla, tuntimäärä venähti. Oli hankalaa määritellä kaikki pienetkin ominaisuudet mahdollisimman yksiselitteisellä tavalla. Pään sisällä idea on yksinkertainen, mutta kun se on esiteltävä suuremmalle yleisölle kaikenkattavalla tavalla, siitä tulee vaikeaa. Ohjelmistotuotannossa on huomioitava kaikki mahdolliset risteyskohdat sekä hahmoteltava niille haaratumat ja niiden risteyskohdat ja niin edelleen.
+Kiehtoviempien ja poteniaalisimpien sovellusten määrittely jää heikoksi tai niitä ei tehdä koska ne on "tapettava" määrittelemällä ne tiukasti. Toisin sanoen niiden ei anneta enää hengittää. Tässä prokkiksessa tietysti oletetaan, että sovellus on jo mietitty niin pitkälle kuin se on mahdollista kehittää. Mutta paras vaatimusmäärittelyhän muuttuu projektin edetessä.
+Yksi hankala puoli määrittelyssä oli ideoiden esittely. Eli jalostamattomien toiminnallisuuksien esiintuonti. Miten ehdottaa ideaa toiminnallisuudesta silloin, kun sitä ei halua vielä täysin tiukasti määritellä? Tässä tapauksessa ideoita tuli paljon, eikä niitä oltu vielä jalostettu sovelluksen mailmaan sopiviksi. Mikä on ohjelmistotuotannon vaihe jossa idea "käsikirjoitetaan" valmiiksi?
 ### Mitä tekisitte toisin seuraavissa projekteissa? Oliko projektinne 
 onnistunut, ostaisitteko oman tuotteenne?
 ### Mikä oli vaikein osa dokumentoinnissa? Oliko jotakin mihin ette itse 
