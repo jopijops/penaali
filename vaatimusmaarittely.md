@@ -140,7 +140,7 @@ riittävän yksiselitteisiä?
 ### Millaisia näkymiä järjestelmässä on? Miten toiminnallisuuksia niissä 
 on?
 
-!(http://users.metropolia.fi/~velipekr/Ohjelmistotuotanto/Menu-N%e4kym%e4.png)
+![liite4](http://users.metropolia.fi/~velipekr/Ohjelmistotuotanto/Menu-N%e4kym%e4.png)
 
 + aluksi näytöllä on kirjautumisikkuna jos kyseisen käyttäjän tarvitsee kirjautua erikseen. Muuten mennään suoraan pääikkunaan
 + karttanäkymä on pelin pääikkuna.
