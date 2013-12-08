@@ -166,7 +166,7 @@ riittävän yksiselitteisiä?
  
 ### Listatkaa työhön kuluneet tunnit, so. kuinka monta tuntia dokumentin 
 kirjoittamiseen meni aikaa per henkilö.
-+ Joonas 9h
++ Joonas 11h
 + Velipekka 8,5h
 + Janne 3h
 
