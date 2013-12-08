@@ -137,8 +137,7 @@ riittävän yksiselitteisiä?
  
 ## 5. Käyttöliittymä
  
-### Millaisia näkymiä järjestelmässä on? Miten toiminnallisuuksia niissä 
-on?
+### Millaisia näkymiä järjestelmässä on? Miten toiminnallisuuksia niissä on?
 
 ![liite4](http://users.metropolia.fi/~velipekr/Ohjelmistotuotanto/Menu-N%e4kym%e4.png)
 ![liite5](http://users.metropolia.fi/~velipekr/Ohjelmistotuotanto/Pelin%e4kym%e4.png)
