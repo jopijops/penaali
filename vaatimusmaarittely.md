@@ -1,11 +1,13 @@
  
-University Z.: Kampuksen sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Vaatimusmäärittely.
+# University Z.:
+
+Kampuksen sisätilapaikannukseen perustuva sosiaalinen mobiilizombipeli. Vaatimusmäärittely. Tarkoitettu TV12S1-ryhmän ja opettajiensa silmien hiveltäväksi ja näköhermojensa hyväiltäväksi.
 
 Tattitiimi Developers
 
 Ryhmän jäsenet: Joonas Schwanck, Velipekka Rahkola, Janne Savela
 
-X.12.2013
+8.12.2013
 
 V. 0.1 BETA
  
@@ -141,6 +143,7 @@ riittävän yksiselitteisiä?
 
 ![liite4](http://users.metropolia.fi/~velipekr/Ohjelmistotuotanto/Menu-N%e4kym%e4.png)
 ![liite5](http://users.metropolia.fi/~velipekr/Ohjelmistotuotanto/Pelinakyma.png)
+
 + Aluksi näytöllä on kirjautumisikkuna jos kyseisen käyttäjän tarvitsee kirjautua erikseen. Muuten mennään suoraan pääikkunaan
 + Menunäkymä on pelin pääikkuna.
 + Kartan reunoilla on kuvitettuja nappeja joista pääsee eri valikoihin tai toimintoihin.
