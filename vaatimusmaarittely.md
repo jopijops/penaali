@@ -160,7 +160,7 @@ riittävän yksiselitteisiä?
 ### Kuvaile siirtymät käyttöliittymänäkymien välillä
 
 + Siirtymät tapahtuu linkkejä painamalla, joka vie seuraavaan valikkoon/näkymään.
-+ ![linkki5](http://users.metropolia.fi/~velipekr/Ohjelmistotuotanto/FLOWCHART.png)
++ ![linkki5](http://users.metropolia.fi/~velipekr/Ohjelmistotuotanto/FLOWCHART1.png)
  
 ## 6. Projektin hallinta, reflektio
  
