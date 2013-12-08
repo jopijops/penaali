@@ -166,7 +166,7 @@ pohdittavaa
 ## 6. Projektin hallinta, reflektio
  
 ### Listatkaa työhön kuluneet tunnit, so. kuinka monta tuntia dokumentin kirjoittamiseen meni aikaa per henkilö.
-+ Joonas 11h
++ Joonas 12h
 + Velipekka 8,5h
 + Janne 3h
 
