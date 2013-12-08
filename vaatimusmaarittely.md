@@ -145,19 +145,21 @@ riittävän yksiselitteisiä?
 + menunäkymä on pelin pääikkuna.
 + kartan reunoilla on kuvitettuja nappeja joista pääsee eri valikoihin tai toimintoihin.
 + asevalikko 
-+ Settings, kavereita voi poistaa/lisätä, myös ryhmäkohtaiset privaattipelit
++ kaverit/ryhmäikkuna: kavereita voi poistaa/lisätä, myös ryhmäkohtaiset privaattipelit
 + Find Game: voi valita pelattavan julkisen skenaarion
 
 ### Kuvaile jokainen näkymä ja mihin sitä käytetään 
 + Kirjautumisikkuna: ensimmäinen näkymä jossa käyttäjä kirjautuu sisään peliin
 + pääikkuna, eli Menu-ikkuna, voi etsiä pelin, palata peliin Map-linkistä, siirtyä asetuksiin
 + /pelinäkymä: karttanäkymä jossa näkyy muut käyttäjät, kartan reunoilla on kuvitettuja nappeja joista pääsee eri valikoihin tai toimintoihin
-+ ase/power up -valikko: saat valita mitä asetta käytät ihmisenä ja mitä power upia käytät zombina
++ asevalikko: saat valita mitä asetta käytät ihmisenä ja mitä power upia käytät zombina
 + kaverit/ryhmäikkuna: kavereita voi poistaa ja lisätä, myös ryhmän/luokan sisäiset privaattipelit
-+ pelivalikko: voi valita pelattavan julkisen skenarion
-+ omat tiedot valikko: voit kirjautua ulos pelistä
++ Find Game: voi valita pelattavan julkisen skenarion
++ Quit valikko: voit kirjautua ulos pelistä
 
 ### Kuvaile siirtymät käyttöliittymänäkymien välillä
+
++ Siirtymät tapahtuu linkkejä painamalla, joka vie seuraavaan valikkoon/näkymään.
  
 ## 6. Projektin hallinta, reflektio
  
