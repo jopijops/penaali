@@ -122,8 +122,7 @@ pohdittavaa
 + selkeät valikot
 + käyttäjä ei voi joutua ikinä "umpikujaan" mistä ei pääse mihinkään suuntaan
 
-### kuinka taata järjestelmän luotettavuus? Listaa mahdolliset 
-järjestelmävirheet ja kuinka niistä toivutaan
+### kuinka taata järjestelmän luotettavuus? Listaa mahdolliset järjestelmävirheet ja kuinka niistä toivutaan
 + paljon resursseja ja tehokas järjestelmä
 + wlan-yhteyden pätkiminen -> puhelimen päivitys
 
@@ -133,8 +132,7 @@ järjestelmävirheet ja kuinka niistä toivutaan
 ### Mitä muita ei-funktionaalisia vaatimuksia olisi syytä kuvata?
 + käyttöjärjestelmä ja sen versiot, alusta 
 
-### Millaisia metriikkoja käyttäisit, jotta vaatimukset ovat 
-riittävän yksiselitteisiä?
+### Millaisia metriikkoja käyttäisit, jotta vaatimukset ovat riittävän yksiselitteisiä?
 + tarpeeksi yksinkertaisia, ei laajoja
  
 ## 5. Käyttöliittymä
@@ -167,8 +165,7 @@ riittävän yksiselitteisiä?
  
 ## 6. Projektin hallinta, reflektio
  
-### Listatkaa työhön kuluneet tunnit, so. kuinka monta tuntia dokumentin 
-kirjoittamiseen meni aikaa per henkilö.
+### Listatkaa työhön kuluneet tunnit, so. kuinka monta tuntia dokumentin kirjoittamiseen meni aikaa per henkilö.
 + Joonas 11h
 + Velipekka 8,5h
 + Janne 3h
@@ -184,5 +181,4 @@ Yksi hankala puoli määrittelyssä oli ideoiden esittely. Eli jalostamattomien 
 Projekti innosti alkuidean kipinästä eteenpäin. Sääli ettei projekteja ole tehty edelleen kehitettäväksi. Uneversity Z:ssä on paljon potentiaalia monen kampuksen valloittamiseen. Toteutus on oltava ehdottoman toimiva ja mielenkiintoinen. Sovelluksen laajentaminen QR-koodein ja AR-tehtävien avulla on kiehtova mahdoliisuus.
 Mitä tekisin toisin? Mikäli sovellus olisi alusta alkaen paremmin ideoitu, voisi pelkälle määrittelylle jäädä enemmän aikaa. ideointi vie rutosti aikaa. Onhan  ideoiden heittely hauskaa mutta silloin speksien määrittely on häilyvää ja juosten näpyttelyä.
 
-### Mikä oli vaikein osa dokumentoinnissa? Oliko jotakin mihin ette itse 
-olleet tyytyväisiä?
+### Mikä oli vaikein osa dokumentoinnissa? Oliko jotakin mihin ette itse olleet tyytyväisiä?
