@@ -141,19 +141,19 @@ riittävän yksiselitteisiä?
 
 ![liite4](http://users.metropolia.fi/~velipekr/Ohjelmistotuotanto/Menu-N%e4kym%e4.png)
 ![liite5](http://users.metropolia.fi/~velipekr/Ohjelmistotuotanto/Pelinakyma.png)
-+ aluksi näytöllä on kirjautumisikkuna jos kyseisen käyttäjän tarvitsee kirjautua erikseen. Muuten mennään suoraan pääikkunaan
-+ menunäkymä on pelin pääikkuna.
-+ kartan reunoilla on kuvitettuja nappeja joista pääsee eri valikoihin tai toimintoihin.
-+ asevalikko 
-+ kaverit/ryhmäikkuna: kavereita voi poistaa/lisätä, myös ryhmäkohtaiset privaattipelit
++ Aluksi näytöllä on kirjautumisikkuna jos kyseisen käyttäjän tarvitsee kirjautua erikseen. Muuten mennään suoraan pääikkunaan
++ Menunäkymä on pelin pääikkuna.
++ Kartan reunoilla on kuvitettuja nappeja joista pääsee eri valikoihin tai toimintoihin.
++ Asevalikko 
++ Kaverit/ryhmäikkuna: kavereita voi poistaa/lisätä, myös ryhmäkohtaiset privaattipelit
 + Find Game: voi valita pelattavan julkisen skenaarion
 
 ### Kuvaile jokainen näkymä ja mihin sitä käytetään 
 + Kirjautumisikkuna: ensimmäinen näkymä jossa käyttäjä kirjautuu sisään peliin
-+ pääikkuna, eli Menu-ikkuna, voi etsiä pelin, palata peliin Map-linkistä, siirtyä asetuksiin
-+ /pelinäkymä: karttanäkymä jossa näkyy muut käyttäjät, kartan reunoilla on kuvitettuja nappeja joista pääsee eri valikoihin tai toimintoihin
-+ asevalikko: saat valita mitä asetta käytät ihmisenä ja mitä power upia käytät zombina
-+ kaverit/ryhmäikkuna: kavereita voi poistaa ja lisätä, myös ryhmän/luokan sisäiset privaattipelit
++ Pääikkuna, eli Menu-ikkuna, voi etsiä pelin, palata peliin Map-linkistä, siirtyä asetuksiin
++ Pelinäkymä: karttanäkymä jossa näkyy muut käyttäjät, kartan reunoilla on kuvitettuja nappeja joista pääsee eri valikoihin tai toimintoihin
++ Asevalikko: saat valita mitä asetta käytät ihmisenä ja mitä power upia käytät zombina
++ Kaverit/ryhmäikkuna: kavereita voi poistaa ja lisätä, myös ryhmän/luokan sisäiset privaattipelit
 + Find Game: voi valita pelattavan julkisen skenarion
 + Quit valikko: voit kirjautua ulos pelistä
 
