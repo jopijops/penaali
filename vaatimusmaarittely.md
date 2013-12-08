@@ -172,9 +172,14 @@ kirjoittamiseen meni aikaa per henkilö.
 
 ### Työmäärä verrattuna odotuksiin
 Tehtävä: kehitä kattava mobiilisovellus ideasta käyttöliittymäluonnoksiin tunneissa. Työmääräarvio alustavanluonteiselle vaatimusmaarittelylle ilman aikaisempaa kokemusta ohjelmistotuotannosta oli noin kahdeksan tuntia per naama. Mutta kun aiheeseen pääsi käsiksi ja sovelluksen ominaisuuksia alkoi putoilla, tuntimäärä venähti. Oli hankalaa määritellä kaikki pienetkin ominaisuudet mahdollisimman yksiselitteisellä tavalla. Pään sisällä idea on yksinkertainen, mutta kun se on esiteltävä suuremmalle yleisölle kaikenkattavalla tavalla, siitä tulee vaikeaa. Ohjelmistotuotannossa on huomioitava kaikki mahdolliset risteyskohdat sekä hahmoteltava niille haaratumat ja niiden risteyskohdat ja niin edelleen.
+
 Kiehtoviempien ja poteniaalisimpien sovellusten määrittely jää heikoksi tai niitä ei tehdä koska ne on "tapettava" määrittelemällä ne tiukasti. Toisin sanoen niiden ei anneta enää hengittää. Tässä prokkiksessa tietysti oletetaan, että sovellus on jo mietitty niin pitkälle kuin se on mahdollista kehittää. Mutta paras vaatimusmäärittelyhän muuttuu projektin edetessä.
+
 Yksi hankala puoli määrittelyssä oli ideoiden esittely. Eli jalostamattomien toiminnallisuuksien esiintuonti. Miten ehdottaa ideaa toiminnallisuudesta silloin, kun sitä ei halua vielä täysin tiukasti määritellä? Tässä tapauksessa ideoita tuli paljon, eikä niitä oltu vielä jalostettu sovelluksen mailmaan sopiviksi. Mikä on ohjelmistotuotannon vaihe jossa idea "käsikirjoitetaan" valmiiksi?
-### Mitä tekisitte toisin seuraavissa projekteissa? Oliko projektinne 
-onnistunut, ostaisitteko oman tuotteenne?
+
+### Mites toi teijän prokkis?
+Projekti innosti alkuidean kipinästä eteenpäin. Sääli ettei projekteja ole tehty edelleen kehitettäväksi. Uneversity Z:ssä on paljon potentiaalia monen kampuksen valloittamiseen. Toteutus on oltava ehdottoman toimiva ja mielenkiintoinen. Sovelluksen laajentaminen QR-koodein ja AR-tehtävien avulla on kiehtova mahdoliisuus.
+Mitä tekisin toisin? Mikäli sovellus olisi alusta alkaen paremmin ideoitu, voisi pelkälle määrittelylle jäädä enemmän aikaa. ideointi vie rutosti aikaa. Onhan  ideoiden heittely hauskaa mutta silloin speksien määrittely on häilyvää ja juosten näpyttelyä.
+
 ### Mikä oli vaikein osa dokumentoinnissa? Oliko jotakin mihin ette itse 
 olleet tyytyväisiä?
