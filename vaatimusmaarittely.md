@@ -9,7 +9,7 @@ Ryhmän jäsenet: Joonas Schwanck, Velipekka Rahkola, Janne Savela
 
 8.12.2013
 
-V. 0.1 BETA
+V. 1.0 BETA
  
 ## 1. Johdanto 
  
