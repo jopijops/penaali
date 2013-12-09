@@ -118,11 +118,12 @@ Ihmispelaaja
 + säännölliset virheenkorjauspäivitykset
 + käyttäjä tietää kokoajan mitä pelissä tapahtuu
  
-pohdittavaa
+
 
 ### kuinka taata järjestelmän helppokäyttöisyys?
 + selkeät valikot
 + käyttäjä ei voi joutua ikinä "umpikujaan" mistä ei pääse mihinkään suuntaan
++ hyvin koodattu
 
 ### kuinka taata järjestelmän luotettavuus? Listaa mahdolliset järjestelmävirheet ja kuinka niistä toivutaan
 + paljon resursseja ja tehokas järjestelmä
@@ -170,7 +171,7 @@ pohdittavaa
 ### Listatkaa työhön kuluneet tunnit, so. kuinka monta tuntia dokumentin kirjoittamiseen meni aikaa per henkilö.
 + Joonas 12h
 + Velipekka 8,5h
-+ Janne 3h
++ Janne 5h
 
 ### Työmäärä verrattuna odotuksiin
 Tehtävä: kehitä kattava mobiilisovellus ideasta käyttöliittymäluonnoksiin tunneissa. Työmääräarvio alustavanluonteiselle vaatimusmaarittelylle ilman aikaisempaa kokemusta ohjelmistotuotannosta oli noin kahdeksan tuntia per naama. Mutta kun aiheeseen pääsi käsiksi ja sovelluksen ominaisuuksia alkoi putoilla, tuntimäärä venähti. Oli hankalaa määritellä kaikki pienetkin ominaisuudet mahdollisimman yksiselitteisellä tavalla. Pään sisällä idea on yksinkertainen, mutta kun se on esiteltävä suuremmalle yleisölle kaikenkattavalla tavalla, siitä tulee vaikeaa. Ohjelmistotuotannossa on huomioitava kaikki mahdolliset risteyskohdat sekä hahmoteltava niille haaratumat ja niiden risteyskohdat ja niin edelleen.
