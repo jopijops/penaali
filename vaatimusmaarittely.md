@@ -115,6 +115,8 @@ Ihmispelaaja
 ### laadulliset vaatimukset (non-functional requirements)
 + kartan on päivityttävä reaaliaikaisesti
 + pelin tapahtumien tulee päivittyä reaaliaikaisesti
++ säännölliset virheenkorjauspäivitykset
++ käyttäjä tietää kokoajan mitä pelissä tapahtuu
  
 pohdittavaa
 
