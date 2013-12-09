@@ -128,6 +128,7 @@ Ihmispelaaja
 ### kuinka taata järjestelmän luotettavuus? Listaa mahdolliset järjestelmävirheet ja kuinka niistä toivutaan
 + paljon resursseja ja tehokas järjestelmä
 + wlan-yhteyden pätkiminen -> puhelimen päivitys
++ varmistetaan että käyttäjiä mahtuu peliin kokoajan lisää eikä palvelin kaadu
 
 ### järjestelmälläsi on paljon käyttäjiä, kuinka taata että järjestelmässä on riittävästi tehoja? Millaisia metriikkoja käyttäisit?
 + järjestelmä on tehokas ja dynaaminen
