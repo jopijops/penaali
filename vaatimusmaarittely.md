@@ -133,7 +133,8 @@ Ihmispelaaja
 + järjestelmä on tehokas ja dynaaminen
  
 ### Mitä muita ei-funktionaalisia vaatimuksia olisi syytä kuvata?
-+ käyttöjärjestelmä ja sen versiot, alusta 
++ käyttöjärjestelmä ja sen versiot, alusta
++ tiettyjen tapausten yksityiskohtaiset kuvaukset
 
 ### Millaisia metriikkoja käyttäisit, jotta vaatimukset ovat riittävän yksiselitteisiä?
 + tarpeeksi yksinkertaisia, ei laajoja
