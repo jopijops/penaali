@@ -44,8 +44,13 @@
 ###### Arvioitavat osiot
 
  1. Johdanto (dokumentin alku) + Projektin hallinta, reflektio (dokumentin viimeinen osa)
+ + johdanto lyhyt mutta kertoo kuitenkin paljon oleellista sovelluksen tarkoituksesta
+ + työnjako on oli tehty selkeästi ja jokaisella oli projektissa tietyt omat vastuualueet
  2. Käyttötapaukset
+ + yksityiskohtaiset tapaukset listattu kattavasti, seurata still-kuvan muuttumista ei oikein auennut
  3. Järjestelmäarkkitehtuuri
+ + melko suppea, saisi olla yksityiskohtaisempi
  4. Vaatimukset
+ + 
  5. Käyttöliittymä
 
