@@ -31,7 +31,7 @@
  
 #### Dokumentaation arviointi
 
-**Linkki dokumenttiin:** *linkki tähän*
+**Linkki dokumenttiin:** https://github.com/marikaas/JMM
 
 ##### Arvioi dokumentti osioittain
 
