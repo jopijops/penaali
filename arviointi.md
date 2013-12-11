@@ -48,9 +48,12 @@
  + työnjako on oli tehty selkeästi ja jokaisella oli projektissa tietyt omat vastuualueet
 2. Käyttötapaukset
  + yksityiskohtaiset tapaukset listattu kattavasti, seurata still-kuvan muuttumista ei oikein auennut
+ + käyttäjäryhmistä puuttui selkeästi ruokalahenkilökunta tai muu taho joka päivittäisi ruokalistoja ja muita sovelluksen tarvitsemia muuttuvia tietoja
 3. Järjestelmäarkkitehtuuri
  + melko suppea, saisi olla yksityiskohtaisempi
+ + järjestelmäarkkitehtuuria ei juuri kuvattu, sovelluksen tarvitsemia resursseja ei kuvattu
 4. Vaatimukset
+ + pitkä vaatimuslista
  + erittäin hyvin laadittu ja selitetty vaatimukset läpikotaisin, kovat on vaatimukset
 5. Käyttöliittymä
  + sovellus on yksinkertainen ja käyttöliittymä on pidetty myös selkeänä, kaikki tarvittavat asiat löytyvät päänäkymästä
