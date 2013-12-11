@@ -15,14 +15,17 @@
 ##### Saitko hyvän yleiskuvan tuotteesta?
  + applikaatio kertoo ruokalan ruuhkatilanteen
  + tuotteen teeman oli selkeä ja sille on kysyntää
+
 ##### Toimiko kalvosetti?
  + kalvosetti oli selkeä
  + käyttöliittymän kuvaus oli selkeä
  + itse dokumentaation käyttäminen esityksessä oli turhaa ja hidasta
+
 ##### Oliko esitys luonteva? Elekieli? Kieli, esitystapa?
  + 4 esittäjää ja jokainen kertoi oman osuutensa 
  + esiintyjillä ei ollut selkeää kuvaa omasta asiastaan
  + hieman liikaa päätteen takaa esiintymistä
+ 
 ##### Muita kommentteja:
  
  
