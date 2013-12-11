@@ -51,6 +51,6 @@
 3. Järjestelmäarkkitehtuuri
  + melko suppea, saisi olla yksityiskohtaisempi
 4. Vaatimukset
- + 
+ + erittäin hyvin laadittu ja selitetty vaatimukset läpikotaisin, kovat on vaatimukset
 5. Käyttöliittymä
-
+ + sovellus on yksinkertainen ja käyttöliittymä on pidetty myös selkeänä, kaikki tarvittavat asiat löytyvät päänäkymästä
