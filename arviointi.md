@@ -54,3 +54,5 @@
  + erittäin hyvin laadittu ja selitetty vaatimukset läpikotaisin, kovat on vaatimukset
 5. Käyttöliittymä
  + sovellus on yksinkertainen ja käyttöliittymä on pidetty myös selkeänä, kaikki tarvittavat asiat löytyvät päänäkymästä
+ + käyttöliittymän siirtymät ovat loogisia ja se on hyvin kuvattu dokumentaatiossa. 
+ + Kaikki näkymät ovat esitetty graafiseti ja yksiselitteisesti. 
