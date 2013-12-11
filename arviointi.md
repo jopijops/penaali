@@ -12,13 +12,18 @@
 
 **Linkki arvioitavan esityksen kalvosettiin:** *linkki tähän*
 
- - Saitko hyvän yleiskuvan tuotteesta?
+##### Saitko hyvän yleiskuvan tuotteesta?
+ + applikaatio kertoo ruokalan ruuhkatilanteen
  + tuotteen teeman oli selkeä ja sille on kysyntää
- - Toimiko kalvosetti?
+##### Toimiko kalvosetti?
  + kalvosetti oli selkeä
- - Oliko esitys luonteva? Elekieli? Kieli, esitystapa?
+ + käyttöliittymän kuvaus oli selkeä
+ + itse dokumentaation käyttäminen esityksessä oli turhaa ja hidasta
+##### Oliko esitys luonteva? Elekieli? Kieli, esitystapa?
  + 4 esittäjää ja jokainen kertoi oman osuutensa 
- - Muita kommentteja:
+ + esiintyjillä ei ollut selkeää kuvaa omasta asiastaan
+ + hieman liikaa päätteen takaa esiintymistä
+##### Muita kommentteja:
  
  
 #### Dokumentaation arviointi
